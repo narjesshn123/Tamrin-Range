@@ -1,0 +1,217 @@
+.main{
+    display: flex;
+    flex-direction: row;
+
+}
+.main-box{
+    width: 23%;
+    height: 60%;
+    position: relative;
+    top: 5rem;
+    right: 0%;
+}
+.main-box-purple{
+    width: 25%;
+    height: 24rem;
+    position: relative;
+    top: 5rem;
+    left: 2%;
+    border: 1px solid purple;
+    background-color: purple;
+    border-radius: 3%;
+}
+.main-box-gray{
+    width: 25%;
+    height: 24rem;
+    position: relative;
+    top: 5rem;
+    left: 4%;
+    border: 1px solid gray;
+    border-radius: 3%;
+}
+p{
+    font-family: "Times New Roman";
+    font-size: 0.9rem;
+    font-weight: bold;
+    position: relative;
+    left: 5%;
+}
+.header{
+    color: rgba(250,255,227,0.97); font-weight: lighter;
+}
+.h1-detail{
+    font-size: 0.7rem;
+    color: rgba(32,40,41,0.97);
+    font-weight: lighter;
+    position: relative;
+    bottom: 0.2rem;
+}
+.detail{
+    font-size: 0.7rem;
+    color: rgba(250,255,227,0.97);
+    font-weight: lighter;
+    position: relative;
+    bottom: 0.2rem;
+}
+h2{
+    position: relative;
+    left: 5%;
+}
+h5{font-size: 0.8rem;
+font-family: "Bodoni MT";
+    font-weight: lighter;
+    position: relative;
+    left: 5%;
+}
+.first-icon{
+    width: 8%;
+    height: 8%;
+    position: relative;
+    top: 0.2rem;
+    position: relative;
+    left: 5%;
+}
+.first-item{
+    font-size: 0.7rem;
+    margin-left: 0.4rem;
+    position: relative;
+    left: 5%;
+}
+.secound-item{font-size: 0.7rem;
+margin-left: 0.4rem;
+position: relative;
+top: 0.7rem;
+    left: 5%;
+}
+.secound-icon{
+    position: relative;
+    top: 1.2rem;
+    width: 8%;
+    height: 8%;
+    position: relative;
+    left: 5%;
+}
+.third-icon{
+    width: 8%;
+    height: 8%;
+    position: relative;
+    top: 2.2rem;
+    left: 5%;
+}
+.forth-icon{
+    width: 8%;
+    height: 8%;
+    position: relative;
+    top: 3.2rem;
+    left: 5%;
+}
+.fifth-icon{
+    width: 8%;
+    height: 8%;
+    position: relative;
+    top: 4.2rem;
+    left: 5%;
+}
+.third-item{font-size: 0.7rem;
+    margin-left: 0.4rem;
+    position: relative;
+    top: 1.9rem;
+    left: 5%;
+}
+.forth-item{
+    font-size: 0.7rem;
+    margin-left: 0.4rem;
+    position: relative;
+    top: 2.9rem;
+    left: 5%;
+}
+.fifth-item{
+    font-size: 0.7rem;
+    margin-left: 0.4rem;
+    position: relative;
+    top: 4rem;
+    left: 5%;
+}
+.mybtn{
+    border:none;
+    background-color: rgba(249,255,251,0.97);
+    padding:5% 10%;
+    text-decoration:none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius:6px;
+    border-radius:6px;
+    border:1px solid blueviolet;
+    position: relative;
+    top: 5rem;
+    right: 0.5rem;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: serif;
+    color: blueviolet;
+    position: relative;
+    left: 10%;
+}
+.mybtn:hover{
+    background-color: rgba(15,255,160,0.97);
+}
+.mybtn-purple{
+    border:none;
+    background-color: purple;
+    padding:5% 10%;
+    text-decoration:none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius:6px;
+    border-radius:6px;
+    border:1px solid blueviolet;
+    position: relative;
+    top: 5rem;
+    right: 0.5rem;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: serif;
+    color: white;
+    position: relative;
+    left: 20%;
+}
+.mybtn-white{
+    border:none;
+    background-color: wheat;
+    padding:10px 20px;
+    text-decoration:none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius:6px;
+    border-radius:6px;
+    border:1px solid wheat;
+    position: relative;
+    top: 5rem;
+    right: 0.5rem;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-family: serif;
+    color: purple;
+    position: relative;
+    left: 20%;
+}
+.mybtn-white:hover{
+    background-color: rgba(15,255,160,0.97);}
+.mybtn-purple:hover{
+    background-color: rgba(15,255,160,0.97);
+}
+#color{
+    color: rgba(250,255,227,0.97);
+}
+#color-1{
+    color: rgba(250,255,227,0.97);
+}
+#color-2{
+    color: rgba(250,255,227,0.97);
+}
+#color-3{
+    color: rgba(250,255,227,0.97);
+}
+#color-4{
+    color: rgba(250,255,227,0.97);
+}

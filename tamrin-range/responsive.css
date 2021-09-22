@@ -1,0 +1,92 @@
+@media screen and (max-width: 1500px) { .main{display: flex;
+flex-direction: row;}
+}
+@media screen and (max-width: 750px){.main{display: flex; flex-direction: column;}
+
+    .main-box{
+        width: 60%;
+        height: 100vh;
+        position: relative;
+        top: 5rem;
+        left: 50%;
+    }
+    .main-box-purple{width: 60%;
+        height: 100vh;
+        position: relative;
+        top: 5rem;
+        left: 50%;}
+    .main-box-gray{
+        width: 60%;
+        height: 100vh;
+        position: relative;
+        top: 10rem;
+        left: 50%;
+
+    }
+    p{font-family: "Times New Roman";
+        font-size: 2rem;
+        font-weight: bold;
+        position: relative;
+        left: 5%;}
+    h2{font-size: 3rem;
+        font-family: "Times New Roman";
+
+    }
+    .h1-detail{font-family: "Times New Roman";
+        font-size: 1.2rem;
+        color: rgba(32,40,41,0.97);
+        font-weight: lighter;
+        position: relative;
+        bottom: 0.5rem;
+        right: 0.85rem;}
+    h5{font-size: 2rem; font-family: "Times New Roman";
+    }
+    .first-item{font-size: 1.8rem;  position: relative;
+    bottom: 0.5rem;}
+    .first-icon{width: 12%; height: 12%;}
+    .secound-icon{width: 12%; height: 12%;}
+    .secound-item{font-size: 1.8rem;  position: relative;
+        bottom: 0.5rem;}
+    .third-item{font-size: 1.8rem;  position: relative;
+        bottom: 0.5rem;}
+    .third-icon{width: 12%; height: 12%;}
+    .forth-item{font-size: 1.8rem;  position: relative;
+        bottom: 0.5rem;}
+    .forth-icon{width: 12%; height: 12%;}
+    .fifth-item{font-size: 1.8rem;  position: relative;
+        bottom: 0.5rem;}
+    .fifth-icon{width: 12%; height: 12%;}
+    .mybtn{font-size: 2rem;
+    position: relative;
+    top: 10rem;}
+    .mybtn-purple{font-size: 2rem;
+        position: relative;
+        top: 10rem;
+    }
+    .mybtn-white{
+        font-size: 2rem;
+        position: relative;
+        top: 10rem;
+
+    }
+    .header-upper{
+        font-size: 2rem;
+        font-weight: bold;
+        position: relative;
+        left: 50%;
+    }
+    .header-bottem{
+font-size: 1.5rem;
+        position: relative;
+        top: 1rem;
+        left: 50%;
+    }
+    #range {
+        position: relative;
+        top: 3rem;
+        left: 50%;
+        width: 80%;}
+    .switch{display: none;}
+    p2{display: none;}
+    p3{display: none;}
+}
